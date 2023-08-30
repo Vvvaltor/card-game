@@ -1,1 +1,10 @@
-xdd
+{
+    "name": "Cube test NFT :) json",
+    "symbol": "CUBEj",
+    "description": "A test for NFT",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://www.cube.global/wp-content/uploads/2021/04/cube-icon.png"
+}
